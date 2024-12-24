@@ -11067,7 +11067,8 @@ html {
 }
 
 #portfolio {
-  background-image: url(/assets/img/pict/Website\ \ \(4\).png); background-repeat: no-repeat;
+  background-image: url(..img/Website-4.png)); 
+  background-repeat: no-repeat;
 }
 
 .footer {
